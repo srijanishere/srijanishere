@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srijanishere
-- 👀 I’m currently working on improving my front-end development skills.
-- 🌱 I’m currently learning front-end web development.
-- 💞️ I’m looking to collaborate on new and responsive front-end designs
+- 👀 I’m a front-end developer.
+- 🌱 I’m currently learning and improving my front-end web development skills.
+- 💞️ I’m looking to collaborate on new and responsive front-end designs.
 - 📫 How to reach me 
      -> E-mail : banerjee.srijan2001@gmail.com
      
