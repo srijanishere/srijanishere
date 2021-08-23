@@ -1,3 +1,4 @@
+<h1 align="center">Hey, I'm Srijan Bandyopadhyay <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>
 - 👋 Hi, I’m @srijanishere
 - 👀 I’m a front-end developer.
 - 🌱 I’m currently learning and improving my front-end web development skills.
