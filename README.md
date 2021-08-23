@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="300px" width="100%" alt="Background" align="center">
+<img src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="270px" width="100%" alt="Background" align="center">
 <h1 align="center">Hi! I'm Srijan Bandyopadhyay <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h1>
 <h2 align="center"> Web Developer | CS Undergrad </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanishere&label=Profile%20views&color=0e75b6&style=flat" alt="srijanishere" /> </p>
