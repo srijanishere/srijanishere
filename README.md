@@ -27,6 +27,6 @@ GirlScript Winter of Contribution 2021 - August 2021 to current
 <a href="https://instagram.com/i.am.srijan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.am.srijan" height="30" width="40" /></a>&nbsp;
 <br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanishere&show_icons=true&locale=en" alt="srijanishere" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanishere&" alt="srijanishere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanishere&" alt="srijanishere"/></p>
 <p align="center">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=srijanishere"> </p>
