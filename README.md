@@ -1,4 +1,6 @@
-<img src="https://media0.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" height="270px" width="100%" alt="Background" align="center">
+<p align="center">
+     <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47zzzhse8btcz04b72yj6h89mircf0tqdlle77ikp3&rid=giphy.gif&ct=g" height="400px" width="500px" alt="Background">
+</p>     
 <h1 align="center">Hi! I'm Srijan Bandyopadhyay <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h1>
 <h2 align="center"> Web Developer | CS Undergrad </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanishere&label=Profile%20views&color=0e75b6&style=flat" alt="srijanishere" /> </p>
@@ -10,6 +12,7 @@ Hi, I’m Srijan Bandyopadhyay<br>
 🌍 I look forward on working on more improved designs and hope to contribute my ideas for a good cause<br>
 ⚡ Fun fact : I am huge fan of unique designs so if you ever want to impress me you know where to start<br>
 💻 E-Mail :<a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJVFNWlwVjsCpbSkknXsLQKmXJnBtwBPMDqgHVDZZfgBVFZHKRPqkSHSdvWbDmgZSxbv" alt="email" target="_blank">&nbsp;banerjee.srijan2001@gmail.com</a>
+📄 Find my <a href="https://docs.google.com/document/d/1p3GlLV4rVwWhm4Y5bsOltL7xRkrGH_lZ/edit?usp=sharing&ouid=111662282745143814470&rtpof=true&sd=true" alt="resume" target="_blank">here</a>
 <hr>
 <h3>Experience</h3>
 <strong>Open source contibutor</strong> 🌐<br>
