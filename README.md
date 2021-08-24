@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=2D9DCF&size=30&lines=Welcome+to+my+GitHub"></a>
+</p>
+
+<p align="center">
      <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47zzzhse8btcz04b72yj6h89mircf0tqdlle77ikp3&rid=giphy.gif&ct=g" height="400px" width="500px" alt="Background">
 </p>     
 <h1 align="center">Hi! I'm Srijan Bandyopadhyay <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h1>
