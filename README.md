@@ -3,7 +3,7 @@
 </p>     
 <h1 align="center">Hi! I'm Srijan Bandyopadhyay <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40px"></h1>
 <h2 align="center">Web Developer | CS Undergrad </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanishere&label=Profile%20views&color=0e75b6&style=flat" alt="srijanishere" /> &nbsp; <img src="https://badges.pufler.dev/repos/srijanishere"</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanishere&label=Profile%20views&color=0e75b6&style=flat" alt="srijanishere" /> &nbsp; <img src="https://badges.pufler.dev/repos/srijanishere" </p>
 <h2>A little something about me</h2>
 Hi, I’m Srijan Bandyopadhyay<br>
 👀 I’m a front-end developer and a CS undergrad studying in Kolkata, IN<br>
