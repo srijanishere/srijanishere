@@ -25,7 +25,6 @@ GirlScript Winter of Contribution 2021 - August 2021 to current
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" width="50px" height"60px">
 <br><br>
 <h2>Connect with me</h2>
-<br>
 <a href="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" alt="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/srijanishere" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" alt="https://twitter.com/srijanishere" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/i.am.srijan" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" alt="i.am.srijan" height="40" width="40" /></a>&nbsp;&nbsp;
