@@ -25,9 +25,9 @@ GirlScript Winter of Contribution 2021 - August 2021 to current
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" width="50px" height"60px">
 <hr>
 <h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/archishman-sengupta-7154521b6/" height="30" width="40" /></a>&nbsp;
-<a href="https://twitter.com/srijanishere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/srijanishere" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/i.am.srijan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i.am.srijan" height="30" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" alt="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" height="40" width="40" /></a>&nbsp;
+<a href="https://twitter.com/srijanishere" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" alt="https://twitter.com/srijanishere" height="40" width="40" /></a>&nbsp;
+<a href="https://instagram.com/i.am.srijan" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" alt="i.am.srijan" height="40" width="40" /></a>&nbsp;
 <br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanishere&show_icons=true&locale=en" alt="srijanishere" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanishere&" alt="srijanishere"/></p>
