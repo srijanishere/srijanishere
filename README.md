@@ -19,8 +19,11 @@ Hi, I’m Srijan Bandyopadhyay<br>
 📄 Find my <a href="https://docs.google.com/document/d/1p3GlLV4rVwWhm4Y5bsOltL7xRkrGH_lZ/edit?usp=sharing&ouid=111662282745143814470&rtpof=true&sd=true" alt="resume" target="_blank">Resume</a>
 <br><br>
 <h2>Experience</h2>
-<strong>Open source contibutor</strong> 🌐<br>
-GirlScript Winter of Contribution 2021 - August 2021 to current
+<p><strong>Open source contibutor</strong> 🌐<br>
+GirlScript Winter of Contribution 2021 : August 2021 - current</p>
+
+<p><strong>Content Writer</strong> ✍🏻<br>
+Indian National Youth Foundation : June 2020 - September 2020</p>
 <br><br>
 <h2>Tech Skills</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">&nbsp;
