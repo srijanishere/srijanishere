@@ -16,7 +16,7 @@ Hi, I’m Srijan Bandyopadhyay<br>
 🌍 I look forward on working on more improved designs and hope to contribute my ideas for a good cause<br>
 ⚡ Fun fact : I am huge fan of unique designs so if you ever want to impress me you know where to start<br>
 💻 E-Mail me at <strong>banerjee.srijan2001@gmail.com</strong><br>
-📄 Find my <a href="https://docs.google.com/document/d/1p3GlLV4rVwWhm4Y5bsOltL7xRkrGH_lZ/edit?usp=sharing&ouid=111662282745143814470&rtpof=true&sd=true" alt="resume" target="_blank">Resume</a>
+📄 Find my <a href="https://docs.google.com/document/d/1YszAqUR_32zi50QNeE0rZkg_21LPgDl2ujQ1s0BP-7Q/edit?usp=sharing" alt="resume" target="_blank">Resume</a>
 <br><br>
 <h2>Experience</h2>
 <p><strong>Open source contibutor</strong> 🌐<br>
