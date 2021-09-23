@@ -30,7 +30,8 @@ Indian National Youth Foundation : June 2020 - September 2020</p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a>&nbsp;
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" width="50px" height"60px">&nbsp;&nbsp;
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" width="40px" height="40px">  
+<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" width="40px" height="40px">&nbsp;&nbsp;
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-256.png" width="50px" height="50px">  
 <br><br>
 <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" alt="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
