@@ -20,7 +20,10 @@ Hi, I’m Srijan Bandyopadhyay<br>
 <br><br>
 <h2>Experience</h2>
 <p><strong>Open source contibutor</strong> 🌐<br>
-GirlScript Winter of Contribution 2021 : August 2021 - current</p>
+GirlScript Summer of Code 2022 : March 2022 - Present</p>
+
+<p><strong>Open source contibutor</strong> 🌐<br>
+GirlScript Winter of Contribution 2021 : August 2021 - November 2021</p>
 
 <p><strong>Content Writer</strong> ✍🏻<br>
 Indian National Youth Foundation : June 2020 - September 2020</p>
