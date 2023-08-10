@@ -11,7 +11,7 @@
 <h2>A little something about me</h2>
 Hi, I’m Srijan Bandyopadhyay<br>
 👀 I’m a front-end developer and a CS undergrad studying in Kolkata, IN<br>
-🌱 I’m currently learning and improving my web development skills and trying to work on various projects<br>
+🌱 I’m currently learning and improving my development skills and trying to work on various projects<br>
 💞️ I want to collaborate on new and unique designs and explore my creativity<br>
 🌍 I look forward on working on more improved designs and hope to contribute my ideas for a good cause<br>
 ⚡ Fun fact : I am huge fan of unique designs so if you ever want to impress me you know where to start<br>
