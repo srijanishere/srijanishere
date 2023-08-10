@@ -5,7 +5,7 @@
 <p align="center">
      <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47zzzhse8btcz04b72yj6h89mircf0tqdlle77ikp3&rid=giphy.gif&ct=g" height="400px" width="500px" alt="Background">
 </p>     
-<h1 align="center">Hi! I'm Srijan Bandyopadhyay 👋</h1>
+<h1 align="center">Hello, I'm Srijan Bandyopadhyay 👋</h1>
 <h2 align="center">Flutter | Web Development | CS Undergrad </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijanishere&label=Profile%20views&color=0e75b6&style=flat" alt="srijanishere" /> &nbsp; <img src="https://badges.pufler.dev/repos/srijanishere" </p>
 <h2>A little something about me</h2>
