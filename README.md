@@ -29,26 +29,23 @@ GirlScript Winter of Contribution 2021 : August 2021 - November 2021</p>
 Indian National Youth Foundation : June 2020 - September 2020</p>
 <br>
 <h2>Tech Skills</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank">&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"></a>&nbsp;
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" width="50px" height"60px">&nbsp;&nbsp;
-<img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" width="40px" height="40px">&nbsp;&nbsp;
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-256.png" width="50px" height="50px">  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,dart,css,html,c,python,flutter,git" />
+  </a>
+</p> 
 <br><br>
 <h2>Connect with me</h2>
 <a href="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-256.png" alt="https://www.linkedin.com/in/srijan-bandyopadhyay-a61573205/" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/srijanishere" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-256.png" alt="https://twitter.com/srijanishere" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/i.am.srijan" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_3-instagram-256.png" alt="i.am.srijan" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/srijanbanerjee" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-256.png" alt="srijanbanerjee" height="50" width="50" /></a>
-<br><br>
 <h2>Stats</h2>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=srijanishere&show_icons=true&locale=en" alt="srijanishere" width="440px" height="195px" />&nbsp;&nbsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijanishere&" alt="srijanishere" width="440px" height="195px"/>
 </p>
 <p>
-<img src ="https://activity-graph.herokuapp.com/graph?username=srijanishere&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="440px" height="195px">&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanishere&layout=compact&theme=buefy" alt="languages" width="440px" height="195px">
 </p>
 <br>
