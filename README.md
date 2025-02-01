@@ -31,7 +31,7 @@ Indian National Youth Foundation : June 2020 - September 2020</p>
 <h2>Tech Skills</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,css,html,c,python,flutter,git" />
+    <img src="https://skillicons.dev/icons?i=java,dart,css,html,c,python,javascript,flutter,git,react,npm" />
   </a>
 </p> 
 <br><br>
